@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-The following versions are currently supported and 
+The following versions are currently supported
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -10,6 +10,6 @@ The following versions are currently supported and
 
 ## Reporting a Vulnerability
 
-Please report vulnerabilities via the Discord (https://discord.gg/d5eSaEHKb7) and file a bug report.
+Please report vulnerabilities via the Guilded server ([https://www.guilded.gg/i/keNLlJQp](https://www.guilded.gg/i/keNLlJQp)) and file a bug report.
 
-We take vulnerabilities very seriously and if your report gets accepted we will rank you to the 'Bug Reporter' rank in the Discord server.
+We take vulnerabilities very seriously and if your report gets accepted we will rank you to the 'Bug Reporter' rank in the Guilded server.
